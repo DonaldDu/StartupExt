@@ -1,0 +1,3 @@
+include ':Ext'
+include ':app'
+rootProject.name = "StartupExt"
